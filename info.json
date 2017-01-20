@@ -1,0 +1,20 @@
+{
+    "name" : "Hand of Midas - Envato Affiliate Money Generator Plugin",
+    "slug" : "midas-money-generator-envato-affiliate",
+    "homepage" : "https://codecanyon.net/user/coderevolution/portfolio",
+    "download_url" : "https://rawgit.com/sfatfarma/midas/master/midas-money-generator-envato-affiliate.zip",
+    
+    "version" : "1.0",
+    "requires" : "2.7",
+    "tested" : "4.7",
+    "last_updated" : "2017-01-30",
+    
+    "author" : "CodeRevolution",
+    "author_homepage" : "https://codecanyon.net/user/coderevolution/portfolio",
+    
+    "sections" : 
+    {
+        "description" : "<p>This plugin will do the hard work for you in making a successful affiliate marketing profitable website.</p>",
+        "changelog" : "<strong>Version 1.0 Release Date 2017-01-30</strong> <ul> <li>First version released!</li> </ul>"
+    }
+}
