@@ -4,10 +4,10 @@
     "homepage" : "https://codecanyon.net/user/coderevolution/portfolio",
     "download_url" : "https://rawgit.com/sfatfarma/midas/master/midas-money-generator-envato-affiliate.zip",
     
-    "version" : "1.2",
+    "version" : "1.3",
     "requires" : "2.7",
     "tested" : "4.7",
-    "last_updated" : "2017-02-03",
+    "last_updated" : "2017-02-04",
     
     "author" : "CodeRevolution",
     "author_homepage" : "https://codecanyon.net/user/coderevolution/portfolio",
@@ -15,6 +15,6 @@
     "sections" : 
     {
         "description" : "<p>This plugin will do the hard work for you in making a successful affiliate marketing profitable website.</p>",
-        "changelog" : "<strong>Version 1.0 Release Date 2017-01-30</strong> <ul> <li>First version released!</li> </ul><strong>Version 1.1 Release Date 2017-02-01/strong> <ul> <li>Added 3d preview button to 3DOcean items that support it</li><li>Added manual 'Comment Import' button for every generated post</li><li>Added rule running timeout manual setting support</li> <li>Minor fixes and enhancements</li></ul><strong>Version 1.2 Release Date 2017-02-03</strong> <ul> <li>Added multisite support</li> </ul>"
+        "changelog" : "<strong>Version 1.0 Release Date 2017-01-30</strong> <ul> <li>First version released!</li> </ul><strong>Version 1.1 Release Date 2017-02-01/strong> <ul> <li>Added 3d preview button to 3DOcean items that support it</li><li>Added manual 'Comment Import' button for every generated post</li><li>Added rule running timeout manual setting support</li> <li>Minor fixes and enhancements</li></ul><strong>Version 1.2 Release Date 2017-02-03</strong> <ul> <li>Added multisite support</li> </ul><strong>Version 1.3 Release Date 2017-02-04</strong> <ul> <li>Improved control panel GUI</li> </ul>"
     }
 }
